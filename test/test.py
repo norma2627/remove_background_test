@@ -3,7 +3,7 @@
 from remove_background import remove_background
 
 # Example usage
-input_path = "./img/maashi1.png"
-output_path = "./result/maashi1.png"
+input_path1 = "./img/maashi1.png"
+output_path1 = "./result/maashi.png"
 
-remove_background(input_path, output_path)
+remove_background(input_path1, output_path1)
